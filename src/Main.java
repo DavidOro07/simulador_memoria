@@ -9,6 +9,7 @@ import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 
+
 public class Main extends Application {
     //Crea una insancia el gestor de memoria 
     private GestorMemoria gestor = new GestorMemoria();
